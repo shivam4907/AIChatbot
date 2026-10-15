@@ -1,0 +1,6 @@
+{
+  "name": "AI-Powered Company Information Assistant",
+  "description": "An intelligent enterprise company information assistant with grounded AI chatbot, directory search, products & services catalog, and administrative management console.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
